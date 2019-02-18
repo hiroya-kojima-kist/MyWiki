@@ -1,0 +1,19 @@
+APP_NAME=MyWiki
+APP_KEY=$(php artisan key:generate --show)
+DEBUGBAR_ENABLED=true
+APP_URL=https://kojima-mywiki.herokuapp.com `
+SESSION_DRIVER=file 
+MAIL_DRIVER=smtp 
+MAIL_HOST=hiroya.kojima.kist@gmail.com
+MAIL_PORT=587 
+MAIL_USERNAME=hiroya.kojima.kist
+MAIL_PASSWORD=wtpmjgda64
+MAIL_ENCRYPTION= 
+MAIL_FROM_ADDRESS=hiroya.kojima.kist@yahoo.co.jp `
+MAIL_FROM_NAME=kojima-mywiki
+
+DB_CONNECTION=pgsql
+DB_HOST=ec2-23-23-184-76.compute-1.amazonaws.com
+DB_DATABASE=d58dd3qjqrbsds
+DB_USERNAME=riqzrxkaalkntg
+DB_PASSWORD=0a72c264a3f9113a7faa6913074615feda5f34c8c3f5905fda706612455ca42a

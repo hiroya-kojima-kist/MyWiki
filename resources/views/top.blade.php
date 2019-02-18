@@ -8,8 +8,8 @@
 <div class="container">
     <h1>{{ $title }}</h1>
     <p>
-        {{ __('My practice for basic CRUD of Laravel 5.7 on Heroku.') }}
-    </p>
+        {{ __("MyWiki is Kojima's Graduation Works.") }}
+    {{-- </p>
     <ul>
         <li>
             GitHub:
@@ -53,6 +53,6 @@
                 </li>
             </ul>
         </li>
-    </ul>
+    </ul> --}}
 </div>
 @endsection

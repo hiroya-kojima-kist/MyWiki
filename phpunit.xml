@@ -28,7 +28,6 @@
 
                 <!-- コントローラ -->
                 <file>./app/Http/Controllers/Controller.php</file>
-                <file>./app/Http/Controllers/FooController.php</file>
 
                 <!-- ミドルウェア -->
                 <file>./app/Http/Middleware/Authenticate.php</file>
