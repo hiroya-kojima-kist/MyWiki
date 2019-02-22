@@ -12,15 +12,15 @@
     </p>
 
     <h2>{{ __('How To Use') }}</h2>
-    <ul>
-        <li>{{ __('1. Make new account to <Register> page.') }}<br>
+    <ul style="list-style-type: decimal">
+        <li>{{ __('Make new account to <Register> page.') }}<br>
             {{ __('(You might used to 10minutemail)') }}
         </li>
-        <li>{{ __('2. Login to <Login> page.') }}<br>
+        <li>{{ __('Login to <Login> page.') }}<br>
             {{ __('(TestAccount is mail:foo1@foo.com pass:password)') }}
         </li>
-        <li>{{ __('3. Write new Post to <New Post> page.') }}</li>
-        <li>{{ __('4. View Posts to <Posts> page.') }}<br>
+        <li>{{ __('Write new Post to <New Post> page.') }}</li>
+        <li>{{ __('View Posts to <Posts> page.') }}<br>
             {{ __('(Push Titlestring, You read detail)') }}
         </li>
     </ul>
