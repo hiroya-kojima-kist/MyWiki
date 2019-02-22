@@ -1,5 +1,10 @@
 {
     "MyWiki is Kojima's Graduation Works.": "MyWikiは小島の卒業作品です。",
+    "How To Use":"使い方",
+    "1. Make new account for <Register> page.":"1. <ユーザー登録>から新しくアカウントを作成します。",
+    "(You might used to 10minutemail)":"登録するときにメールアドレス確認があるのですが１０分メールなどを使ってもいいかもしれません。",
+    "2. Login to <Login> page.":"<ログイン>からログインしてください。",    
+
     "Feature": "機能",
     "All visitors can read all posts.": "訪問者はすべての投稿を読めます。",
     "All visitors can read all users' profile except email address.": "訪問者はメールアドレスを除く会員のプロフィールを読めます。",
