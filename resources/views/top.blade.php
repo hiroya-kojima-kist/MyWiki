@@ -8,7 +8,7 @@
 <div class="container">
     <h1>{{ $title }}</h1>
     <p>
-        {{ __("MyWiki is Kojima's Graduation Works.") }}
+        {{ __("MyNote is Kojima's Graduation Works.") }}
     </p>
 
     <h2>{{ __('How To Use') }}</h2>
